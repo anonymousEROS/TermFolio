@@ -27,7 +27,7 @@ export const contact = () => {
 export const help = () => {
     // List of commands max commands is 20 but can increase by increasing table sz
     const commandList = ['about', 'git', 'linkedin', 'contact', 'clear', 
-                        'sum', '!wq', 'unknown', 'help'];
+                        'sum', '!wq', 'help'];
 
     // Create a 10x2 table
     const rows = 10;

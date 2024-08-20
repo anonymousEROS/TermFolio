@@ -31,6 +31,8 @@ input.terminal-input {
 .input-line {
     display: flex;
     align-items: center;
+    color: #ffffff;
+    font-size: larger;
     margin-bottom: 1rem; /* Add space between the input and the previous command */
 }
 
@@ -52,7 +54,7 @@ input {
 }
 
 .command {
-    color: #c6c5c7; /* Command input color */
+    color: #ffffff; /* Command input color */
 }
 
 .output {
@@ -63,12 +65,15 @@ input {
 /* New CSS classes for custom colors */
 .username {
     color: red; /* Customize the color of JaidanDovala */
+    font-size: large;
 }
 
 .at-symbol {
     color: hotpink; /* Customize the color of @ */
+    font-size: large;
 }
 
 .dollar-symbol {
     color: lime; /* Customize the color of $ */
+    font-size: large;
 }

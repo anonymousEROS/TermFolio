@@ -4,9 +4,9 @@ import config from './Config';
 
 const Quicksum = async (args) => {
     return `
-         QuickSum
-        -----------
-         ABOUT
+                                                     QuickSum
+                                                    -----------
+                                                     ABOUT
         ▐▓▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▓        ${config.name}
         ▐▓                                 ▐▓        <u><a href="${config.resume_url}" target="_blank">resume</a></u>
         ▐▓       > ${config.name}                  ▐▓       -----------
