@@ -17,9 +17,7 @@ function App() {
     <Routes>
     <Switch>
         <Route path="/" exact component={HeroSection} />
-        <>
-          <Route path="/term" exact component={Term} />
-        </>
+        <Route path="/term" exact component={Term} />
       </Switch>
     </Routes>
   );

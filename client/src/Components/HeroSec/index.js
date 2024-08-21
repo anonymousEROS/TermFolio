@@ -15,13 +15,14 @@ import{
 } from './HeroElements';
 import ReactLoading from 'react-loading';
 
+
 const HeroSection = () => {
     const [hover, setHover] = useState(false)
-
+  
     const onHover = () => {
         setHover(!hover)
     }
-
+    
   return (
     <HeroContainer>
         <HeroBg>

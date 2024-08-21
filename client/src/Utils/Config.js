@@ -9,7 +9,9 @@ const config = {
     // Add other configuration settings here
     "email": "dovalajaidan@gmail.com",
     "resume_url": "https://jaidandovalares.tiiny.site",
-    "name": "Jaidan"
+    "name": "Jaidan",
+    "repo": "https://github.com/anonymousEROS/TermFolio"
+
 };
 
 export default config;

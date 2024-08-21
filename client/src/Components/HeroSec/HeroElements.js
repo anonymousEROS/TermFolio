@@ -58,7 +58,7 @@ z-index: 3;
 max-width: 1000px;
 position: absolute;
 padding: 8px 24px;
-margin-top: 400px;
+margin-top: 191px;
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -109,4 +109,3 @@ export const ArrowRight = styled(MdKeyboardArrowRight)`
 margin-left: 8px;
 font-size: 20px;
 `;
-
