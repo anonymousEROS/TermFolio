@@ -9,7 +9,7 @@ import Quicksum from './Quicksum'
 export const about = () => {
     return `
 Hi, I am ${config.name}
-Welcome to my portofoilo!
+Welcome to my portfoilo!
 
 Feel free to star and clone this <a href="${config.repo}" target="_blank">repository</a>, and modify it as you see fit. 
 I grant anyone permission to use, copy, and adapt this code for personal 
