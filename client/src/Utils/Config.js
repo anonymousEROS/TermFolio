@@ -2,7 +2,7 @@
 
 const config = {
     social: {
-        "github": "anonymouseros",
+        "github": "blkkap",
         "linkedin": "jaidan-dovala-4299a3117"
         // Add more social links if needed
     },
@@ -10,7 +10,7 @@ const config = {
     "email": "dovalajaidan@gmail.com",
     "resume_url": "https://jaidandovalares.tiiny.site",
     "name": "Jaidan",
-    "repo": "https://github.com/anonymousEROS/TermFolio"
+    "repo": "https://github.com/blkkap/TermFolio"
 
 };
 
