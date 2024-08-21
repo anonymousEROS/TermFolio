@@ -11,6 +11,8 @@ import {
     linkedin,
     sum
 } from '../Utils/Commands';
+// import {colorizeText} from  './colorizeText'
+
 
 const Term = () => {
     const history = useHistory(); // Initialize useNavigate
@@ -81,6 +83,9 @@ const Term = () => {
                                 <span className="at-symbol">@</span>
                                 <span className="command">{promptEmoji} </span>
                                 <span className="dollar-symbol">$ </span>
+                                {/* uncommenting this line and importing {colorizeText}.. Actually check 
+                                yourself */}
+                                {/* <span className="input">{colorizeText(cmd.command)}</span> */}
                                 <span className="input">{cmd.command}</span>
                             </span>
                         </div>
@@ -92,7 +97,7 @@ const Term = () => {
                         <span className="username">JaidanDovala</span>
                         <span className="at-symbol">@</span>
                         <span className="command">{promptEmoji} </span>
-                        <span className="dollar-symbol">$ </span>
+                        <span className="dollar-symbol">$</span>
                     </span>
                     <input
                         type="text"

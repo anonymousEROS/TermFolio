@@ -76,8 +76,8 @@ export const unknownCommand = () => {
 export const banner = () => {
     return `
       <div style="display: inline-flex; align-items: center;">
-        <img src="${bk1}" style="margin-rigth:2em; width: 180px;" />
-          <span style="font-size: auto; color: white;">
+        <img src="${bk1}" style="margin-rigth:1em; width: 180px;" />
+          <span style="font-size: x-small; color: pearl;">
             ██╗ █████╗ ██╗██████╗  █████╗ ███╗   ██╗    ██████╗  ██████╗ ██╗   ██╗ █████╗ ██╗      █████╗ 
             ██║██╔══██╗██║██╔══██╗██╔══██╗████╗  ██║    ██╔══██╗██╔═══██╗██║   ██║██╔══██╗██║     ██╔══██╗
             ██║███████║██║██║  ██║███████║██╔██╗ ██║    ██║  ██║██║   ██║██║   ██║███████║██║     ███████║

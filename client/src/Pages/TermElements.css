@@ -47,6 +47,7 @@ input {
     color: #ffffff; /* Text input color */
     outline: none;
     flex: 1;
+    font-size: large;
 }
 
 .terminal-output div {

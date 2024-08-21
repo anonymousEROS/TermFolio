@@ -1,3 +1,10 @@
+## 📸 Showcase
+
+<p align="center">
+<img src="./demo/termfolio.gif" width="600"><br>
+<strong>Quick look at TermFolio</strong>
+</p>
+
 If you encounter any issues or bugs, please refer to the package.json file for the versions of the packages used in this project.
 
 To modify this portfolio template, refer to the files and folders within:
@@ -10,7 +17,7 @@ Inside the src folder, you will find the following directories:
 - [Images](https://github.com/blkkap/TermFolio/tree/master/client/src/Images)
 - [Pages](https://github.com/blkkap/TermFolio/tree/master/client/src/Pages)
 - [Utils](https://github.com/blkkap/TermFolio/tree/master/client/src/Utils)
-- [Videos](https://github.com/blkkap/TermFolio/tree/master/client/src/Vidoes)
+- [Videos](https://github.com/blkkap/TermFolio/tree/master/client/src/Videos)
 
 You will primarily be editing JavaScript code and CSS in these five folders
 
