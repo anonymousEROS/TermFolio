@@ -2,6 +2,8 @@ import bk1 from '../Images/BK1.jpg'
 import config from './Config'; 
 import Quicksum from './Quicksum'
 
+//Most of these commands you edit in this file, refer to config file
+//for your personal socials
 
 // src/commands.js
 export const about = () => {
