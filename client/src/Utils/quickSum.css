@@ -1,0 +1,22 @@
+pre {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+/* Media queries for smaller screens */
+@media (max-width: 600px) {
+    pre {
+        font-size: 12px; /* Smaller font for better readability on phones */
+        padding: 10px; /* Adjust padding */
+    }
+}
+
+/* For very small screens, you can further reduce font size or adjust layout */
+@media (max-width: 400px) {
+    pre {
+        font-size: 12px; /* Further reduce font size */
+        padding: 5px; /* Further adjust padding */
+    }
+}
